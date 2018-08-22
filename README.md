@@ -14,3 +14,5 @@ Leadtools Cloud Services: https://services.leadtools.com/
 Leadtools Cloud Services API Documentation: https://services.leadtools.com/documentation/api-reference
 
 #Note: must have LEADTOOLS Cloud Services Account to run application. Work in Progress(WIP)
+
+![Screenshot](CloudServices.png)
